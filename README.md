@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Sharjeel2
+- 👀 I’m interested in making this world a better place than what it was yesterday.
+- 🌱 I’m currently learning network and cyber security.
+- 💞️ I’m looking to collaborate on projects on security or web design and front end development.
+- 📫 How to reach me: Email me: cypresssalt@gmail.com
